@@ -6,7 +6,11 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-A platform dedicated to offering valuable insights into the renewable energy industry, where I share my expertise in engineering, project estimation, and construction. Drawing from a decade of experience in EPC (Engineering, Procurement, and Construction), this space is designed to inform, inspire, and support those passionate about building a sustainable future.
+  A platform dedicated to offering valuable insights into the renewable energy industry, 
+  where I share my expertise in engineering, project estimation, and construction. 
+  Drawing from a decade of experience in EPC (Engineering, Procurement, and Construction), 
+  this space is designed to inform, inspire, and support those passionate about building 
+  a sustainable future.
 
 # Build settings
 
